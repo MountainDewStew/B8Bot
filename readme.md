@@ -1,4 +1,4 @@
-<p align="center"><img src='https://media.discordapp.net/attachments/521810097157046322/525075937629306890/B8_Bot_WhiteBG.jpg'></p>
+<p align="center"><img src='https://media.discordapp.net/attachments/521810097157046322/525076660735705109/B8_Bot_SmallWhiteBG.jpg'></p>
 
 B8 Bot - The Discord Bot
 ===========================================
