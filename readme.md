@@ -1,6 +1,6 @@
 
 
-# B8 Bot - The Discord Bot
+Alt-B8 Bot - The Discord Bot
 ===========================================
 
 >A sleek Discord bot that has lots of fun, practical, and intuitive commands.
